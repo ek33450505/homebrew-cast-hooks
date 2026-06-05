@@ -1,9 +1,9 @@
 class CastHooks < Formula
   desc "13 Claude Code hook scripts — observability, safety guards, and agent dispatch"
   homepage "https://github.com/ek33450505/cast-hooks"
-  url "https://github.com/ek33450505/cast-hooks/archive/refs/tags/v0.2.0.tar.gz"
-  version "0.2.0"
-  sha256 "e898f4adbc2d60a30132140ad25b847ebd532952bfc8f2def3a68927924f0516"
+  url "https://github.com/ek33450505/cast-hooks/archive/refs/tags/v0.2.1.tar.gz"
+  version "0.2.1"
+  sha256 "b9742076716af429c56adab43f6a8133aa3de992e5384c8a95e35f42430fc7ad"
   license "MIT"
 
   def install
